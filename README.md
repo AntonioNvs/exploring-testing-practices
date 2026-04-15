@@ -37,6 +37,6 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 ## Respostas
 
-**1. Repositório selecionado:** `https://andrehora.github.io/testminer/#fastapi/fastapi`
+**1. Repositório selecionado:** `https://github.com/fastapi/fastapi`
 
 **2. Explicação:** `Teste de códigos da documentação: pelo TestMiner, foi possivel perceber uma pasta de testes somente para códigos da docs, fazendo com que o conjunto de testes percorra tal pasta e executa-os como se fossem parte da aplicação, evitando com que ocorra erros ao usar exemplos de teste da própria documentação, o que poderia ocasionar em uma má experiência do usuário. Além disso, nota-se a presença do playwright como dependências de teste, o que indica um uso de Testes de Interface.`
